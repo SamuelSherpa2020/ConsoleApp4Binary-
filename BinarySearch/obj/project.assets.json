@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS_C#folder_SelfLearn\\Using Visual Studio Code\\String Reloaded\\BinarySearch\\BinarySearch.csproj",
+      "projectUniqueName": "E:\\VS_C#folder_SelfLearn\\Using Visual Studio Code\\String Reloaded\\ConsoleApp4Binary-\\BinarySearch\\BinarySearch.csproj",
       "projectName": "BinarySearch",
-      "projectPath": "E:\\VS_C#folder_SelfLearn\\Using Visual Studio Code\\String Reloaded\\BinarySearch\\BinarySearch.csproj",
+      "projectPath": "E:\\VS_C#folder_SelfLearn\\Using Visual Studio Code\\String Reloaded\\ConsoleApp4Binary-\\BinarySearch\\BinarySearch.csproj",
       "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-      "outputPath": "E:\\VS_C#folder_SelfLearn\\Using Visual Studio Code\\String Reloaded\\BinarySearch\\obj\\",
+      "outputPath": "E:\\VS_C#folder_SelfLearn\\Using Visual Studio Code\\String Reloaded\\ConsoleApp4Binary-\\BinarySearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",

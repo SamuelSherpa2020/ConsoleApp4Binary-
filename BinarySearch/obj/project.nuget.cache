@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QgiiSW6pZ9SZCaRdPfavFQpLwaUU//E01EinvKA7/w37mh4+g5crPboSKvIaRCNLfPx7eIPwolQBwXq276gVhQ==",
+  "dgSpecHash": "DCbDnirvv0WyvjFCaG3We3NtDImQjkZa2TEtV2MkzRaBt6xUt7pXjZA/PBv9k3Tn3ukY6PhNGujLxY7Xgane3g==",
   "success": true,
-  "projectFilePath": "E:\\VS_C#folder_SelfLearn\\Using Visual Studio Code\\String Reloaded\\BinarySearch\\BinarySearch.csproj",
+  "projectFilePath": "E:\\VS_C#folder_SelfLearn\\Using Visual Studio Code\\String Reloaded\\ConsoleApp4Binary-\\BinarySearch\\BinarySearch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

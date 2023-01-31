@@ -3,9 +3,16 @@ class Program
 {
     static void Main(string[] args)
     {
+        int searchingFor;
         int[] array = { 1, 2, 6, 8, 13, 55, 56, 73, 84, 104, 156 };
 
-        int searchingFor = 2;
+        Console.Write("The numbers in array are:  ");
+        array.ToList().ForEach(i => Console.Write(i.ToString() + " "));
+        Console.WriteLine();
+        Console.Write(" Enter a number to find it's position: ");
+
+        searchingFor = int.Parse(Console.ReadLine());
+
         BinarySearchMethod(searchingFor, array);
     }
 
@@ -34,7 +41,6 @@ class Program
             }
             midPoint = (start + end) / 2;
         }
-        Console.WriteLine(1 / 2);
         Console.WriteLine($"The {searchingFor} was found in {midPoint} index of array");
 
     }
